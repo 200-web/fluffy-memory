@@ -2,7 +2,11 @@ body {
     background-color: #83A0A0;
     color: white;
 }
-header, nav {
+img {
+    height: 250px;
+}
+header {
+    color: white;
     background-color: #3e464b;
     text-align: center;
     padding: 15px;
@@ -18,4 +22,10 @@ header, nav {
 .row2 {
     padding: 6px;
     background-color: #BCA0BC;
+}
+nav>a {
+    color: white;
+}
+a {
+    text-decoration: none;
 }
