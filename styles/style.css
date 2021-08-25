@@ -3,7 +3,7 @@ body {
     color: white;
 }
 header, nav {
-    background-color: #4C5F6B;
+    background-color: #3e464b;
     text-align: center;
     padding: 15px;
 }
@@ -14,4 +14,8 @@ header, nav {
 .row1 {
     padding: 6px;
     background-color: #F9B9F2;
+}
+.row2 {
+    padding: 6px;
+    background-color: #BCA0BC;
 }
