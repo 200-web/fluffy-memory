@@ -1,0 +1,12 @@
+body {
+    background-color: #83A0A0;
+    color: white;
+}
+header, nav {
+    background-color: #4C5F6B;
+    text-align: center;
+    padding: 15px;
+}
+.nadpis1 {
+    text-align: left;
+}
