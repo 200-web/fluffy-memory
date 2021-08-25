@@ -9,4 +9,9 @@ header, nav {
 }
 .nadpis1 {
     text-align: left;
+    padding: 4px;
+}
+.row1 {
+    padding: 6px;
+    background-color: #F9B9F2;
 }
