@@ -70,7 +70,7 @@ footer {
 .zakaznici {
     margin : 2px 10px;
 }
-.odkazy {
+.odkazy a, .odkazy a:visited {
     text-decoration: none;
     color: white;
 }
