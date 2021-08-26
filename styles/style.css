@@ -8,10 +8,12 @@ img {
     padding: 2px;
 }
 header {
-    color: white;
-    background-color: #3e464b;
+    color: white;   
     text-align: center;
     padding: 15px;
+    background-color: darkslategrey;
+    <!--background-image: url("https://data.whicdn.com/images/59224717/original.png");-->
+
 }
 .nadpis1 {
     text-align: left;
@@ -65,7 +67,7 @@ footer {
 }
 .flex {
     display:flex;
-    align-items: center;
+    
 }
 .zakaznici {
     margin : 2px 10px;
@@ -77,4 +79,13 @@ footer {
 }
 li.item {
     padding: 1em;
+}
+button {
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cudlik {
+    padding-left: 45px;
+    padding-bottom: 20px;
+    padding-top: 0px;
 }
