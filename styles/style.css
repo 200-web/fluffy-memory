@@ -73,4 +73,8 @@ footer {
 .odkazy a, .odkazy a:visited {
     text-decoration: none;
     color: white;
+    padding-top: 30px;
+}
+li.item {
+    padding: 1em;
 }
